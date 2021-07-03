@@ -5,9 +5,9 @@
     <Package>(SPORE)\Data\Locale\en-us\Text.package</Package>
   </Packages>
   <FullTextIndexExtensions>
-    <Extension>.locale</Extension>
-    <Extension>.xml</Extension>
+    <Extension>locale</Extension>
+    <Extension>prop.xml</Extension>
   </FullTextIndexExtensions>
   <WinMerge>WinMerge\WinMergeU.exe</WinMerge>
-  <UnpackedFolderFormat>{0}{1}.unpacked</UnpackedFolderFormat>
+  <UnpackedFolderFormat>{1}.unpacked</UnpackedFolderFormat>
 </SporeMasterConfig>

@@ -18,6 +18,7 @@ missionfetchcommodity~	0x33E7F436
 [gametuning]	0x02AE0C7E
 [colony_limits]	0x7436B54A
 [creatureabilitytemplates]	0xD2FCB262
+parts~	0x40626000
 ### Previous items are 'obsolete' ###
 timeline
 creaturegame
@@ -38,6 +39,7 @@ locale~	0x02FABF01
 gametuning~	0x02AE0C7E
 colony_limits~	0x7436B54A
 creatureabilitytemplates~	0xD2FCB262
+creature_parts~	0x40626000
 posse_ui~	0x03D864E7
 common~	0x011C0BDE
 global_ui~	0x011C0BF5
@@ -9509,3 +9511,139 @@ eventlog_clg
 eventlog_trg
 eventlog_cvg
 space_conversations~	0x055ADA23
+toolpinkpaint
+toolpinkpaint_auto
+instance_auto
+bard
+toolcloak
+toolportal
+portal2
+toolportal_auto
+portal2_auto
+ce_mouth_modtest
+ce_mouth_amphibian_omnivore_01_auto
+ce_mouth_modtest1.prop.xml
+ce_mouth_modtest1
+ce_mouth_modtest1_auto
+mouth
+ce_page_mouth
+SpView
+ce_page_limb
+ce_page_sense
+ce_page_detail
+ce_page_weapon
+ce_page_move
+ce_page_grasper
+CE
+turnon
+unique
+scared
+bend
+happy
+idle
+point
+madsad
+tuck
+roa
+badgetraderoutes
+badgesightseer
+badgeflightsmade
+badgeempiresize
+badgejoker
+detail
+ear
+grasper
+fin
+nose
+eye
+movement
+move
+antenna
+building
+buildingeditor
+buildingeditortemplates
+creditsnames
+0
+1
+ce_details_mod
+ce_details_mod_diffuse
+ce_mouth_modtest_auto
+part_models~	0x40606000
+creatureparticons~	0x02231C8B
+model
+raw
+conversion_error
+vehicle_parts~	0x40646000
+part_models_lod1~	0x40606100
+cell_parts~	0x40616000
+building_parts~	0x40636000
+fe
+fe_branch_05
+fe_branch_05a
+fe_branch_01
+fe_branch_01a
+fe_branch_02
+fe_branch_02a
+fe_branch_03
+fe_branch_03a
+fe_branch_04
+fe_branch_04a
+fe_fruit_01
+fe_fruit_01a
+fe_fruit_02
+fe_fruit_02a
+fe_fruit_03
+fe_fruit_03a
+fe_branch_standard
+FE_leaves_palm_08a
+float
+FE_leaves_palm_03a
+flora
+flora_parts~	0x40666000
+tribal_outfit_parts~	0x40686000
+vehiclerigblocks
+creaturerigblocks
+cellrigblocks
+buildingrigblocks
+tribalaccessoriesrigblocks
+part_skin_textures~	0x406A2100
+creature_editor_palette~	0x406B6B0C
+creature_editor_palette_pages~	0x406B6C0C
+creature_editor_palette_categories~	0x406B6E0C
+creature_editor_palette_items~	0x406B6D0C
+cake
+templatepalettebuildingparts
+templatepaletteparts
+templatepaletteskinpaint
+templatepaletteblockpaint
+templatepalettepartialthemepage
+templatepalettecellskinpaint
+templatepalettecellparts
+templatepaletteblockpainttheme
+templatepalettepartspage
+templatepaletteskinpainttheme
+templatepaletteplannerpage
+templatepaletteplannervehiclepage
+templatepaletteplanneroutfitpage
+part_models~\ce_details_glasses.rw4
+part_skin_textures~\ce_details_mod_diffuse.rw4
+part_skin_textures~\#240A35B6.rw4
+part_skin_textures~\#3BAA2D23.rw4
+part_skin_textures~\#F0842B08.rw4
+placeholder
+ce_details_glasses
+ce_details_glasses_auto
+pinningnormal
+pinninggeometry
+auto_#406B7B0C_#00000007
+auto_creature_parts~_ce_details_glasses
+auto_#406B7B0C_ce_details_glasses
+ce_page_detail2
+2ce_details_glasses
+auto_creature_parts~_2ce_details_glasses
+texture
+solid_black
+old_model
+dialogboxes~	0x490F6945
+testmodel
+testmodels~	0x44A7F6AF
